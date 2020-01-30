@@ -1,0 +1,18 @@
+# Education Template
+- layout: left
+  name: Birla Institute of Technology, Mesra
+  dates: 2013 - 2016
+  qualification: MTech (Part Time) Computer Science
+  quote: >
+    Established in 1955, Birla Institute of Technology is a deemed University or under Section 3 of the UGC Act located in the district of Ranchi in Jharkahand, India.
+  description: | # this will include new lines to allow paragraphs
+     Earned a first-class master’s degree with distinction and specialized in computer networks. I wrote and published a thesis on "Image processing for human-computer interaction by using a low cost sensor".
+- layout: left
+  name: Shivaji University, Kolhapur
+  dates: 2005 - 2009
+  qualification: BEng  (Full Time) Mechanical Engineering
+  quote: >
+    Established in 1962, Shivaji University is a state university located in the district of Kolhapur in Maharashtra, India.
+  description: | # this will include new lines to allow paragraphs
+     Earned a first-class bachelor’s degree with a specialization in in automobile and industrial engineering. I did a project on computerization of universal joint to demonstrate the relationship between angle of input and output shaft that became part of our engineering laboratory. I was an active member of Indian Society for Technical Education Students Chapter for two consecutive years during my studies.
+
