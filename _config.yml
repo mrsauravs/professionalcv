@@ -47,7 +47,7 @@ linkedin_username: saurabh-sugandh-97280148
 # about_title: About Me (Use this to override about section title)
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name's Saurabh Sugandh and I'm a technology enthusiast. I maintain a blog that covers a wide veriety of topics and occassionally ponder over various linux flavors to test their features and usability. I constantly work to improve user-content experience and closely involved in various initiatives at my workplace. I have gained writing experience while working with different IT companies and also learnt to mentor junior staff members. I am a team player and maintain good relations with my peers.
+  Hello, my name's Saurabh Sugandh. I'm experienced in information gathering, business analysis, networking, documentation, and leading projects with an overall experience of over eight years in IT. I’m well versed with various documentation tools such as oXygen, Framemaker, Robohelp, and MS Word. I’ve a solid foundational knowledge of networking concepts and experience. I maintain a blog that covers a wide veriety of topics and occassionally ponder over various linux flavors to test their features and usability. I constantly work to improve user-content experience and closely involved in various initiatives at my workplace. I have gained writing experience while working with different IT companies and also learnt to mentor junior staff members. I am a team player and maintain good relations with my peers.
 
 # You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
 #    - Lists
@@ -56,17 +56,17 @@ about_content: | # this will include new lines to allow paragraphs
 #    - Images
 
 # Education Section
-education_title: Educational Background
+education_title: Academics
 
 # Experience Section
-experience_title: Professional Background #(Use this to override about experience section title)
+experience_title: Professional #(Use this to override about experience section title)
 
 # Projects Section
-projects_title: Projects Undertaken #(Use this to override about projects section title)
+projects_title: Projects #(Use this to override about projects section title)
 
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   Alongside my skills in technical product documentation, I have other interests and hobbies too:
    - Review movie titles
