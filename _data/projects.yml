@@ -9,7 +9,7 @@
     Project is on wordpress. I started it to express my views on movies and later on it became a platform for sharing views on social and technical issues. It is a static website and so looking forward to move it to Github.
 
 - layout: top-middle
-  name: ownCloud
+  name: ownCloud Help
   link: https://mrsauravs.github.io/ownCloud/
   github: mrsauravs/ownCloud
   quote: >
@@ -23,4 +23,4 @@
   quote: >
     A help application to demonstrate documentation through mobile applications.
   description: | # this will include new lines to allow paragraphs
-    Project is Google Playstore. I started this project to demonstrate and innovate the idea of documentation delivery mechanism at Avaya India Private Limited. This project contains a javascript interactive diagram to understand a demo product.	
+    Project is on Google Playstore. I started this project to demonstrate and innovate the idea of documentation delivery mechanism at Avaya India Private Limited. This project contains a javascript interactive diagram to understand a demo product.	

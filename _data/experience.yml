@@ -7,4 +7,13 @@
   quote: >
    Founded in 1993, Informatica is a leading provider of data management solutions that enables companies to access and integrate their data.
   description: | # this will include new lines to allow paragraphs
-    Working on Data Engineering Integration and PowerCenter by using tools such as XMetal, SDL Knowledge Center, Jira, and Perforce. | Create and maintain online help, how-to-library articles, administrator, command reference, and user guides. | Provide user-interface content feedback. | Maintain version-control tool, Perforce, for Developer Tool and PowerCenter Tool help. | Lead project-related activities.
+    I work on Data Engineering Integration and PowerCenter product documentation by using tools such as XMetal, SDL Knowledge Center, Jira, and Perforce. I also maintain version-control tool, Perforce, for Developer Tool and PowerCenter Tool context-sensitive help. My primary responsibility is to create and maintain online help, how-to-library articles, administrator, command reference, and user guides. I work actively with the development team and provide user-interface content feedback. On need basis, I mentor junior staff members.
+- layout: left
+  company: Sophos Technologies Private Limited
+  link: https://www.sophos.com
+  job_title: Technical Writer 3
+  dates: June 2017 - July 2019
+  quote: >
+   Founded in 1985, Sophos is a developer and vendor of computer security software and hardware that provides endpoint encryption, network security, email security, mobile security, and Unified Threat Management products.
+  description: | # this will include new lines to allow paragraphs
+    I worked on Sophos XG Firewall and Central Wireless product documentation by using tools such as oXygen, Bitbucket, and Jira. I created and maintained online help, context-sensitive help, knowledge-base articles, administrator, command reference, and user guides.  I also maintained and worked on Git documentation repository. I was leading project-related activities and occasionally trained junior staff members.
