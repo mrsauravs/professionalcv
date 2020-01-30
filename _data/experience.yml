@@ -1,10 +1,10 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Informatica Business Solutions Private Limited
+  link: https://www.informatica.com
+  job_title: Senior Technical Writer
+  dates: July 2019 - Present
   quote: >
-   Short description of the company (optional)
+   Founded in 1993, Informatica is a leading provider of data management solutions that enables companies to access and integrate their data.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Working on Data Engineering Integration and PowerCenter by using tools such as XMetal, SDL Knowledge Center, Jira, and Perforce. | Create and maintain online help, how-to-library articles, administrator, command reference, and user guides. | Provide user-interface content feedback. | Maintain version-control tool, Perforce, for Developer Tool and PowerCenter Tool help. | Lead project-related activities.
