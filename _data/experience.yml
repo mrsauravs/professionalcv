@@ -17,3 +17,39 @@
    Founded in 1985, Sophos is a developer and vendor of computer security software and hardware that provides endpoint encryption, network security, email security, mobile security, and Unified Threat Management products.
   description: | # this will include new lines to allow paragraphs
     I worked on Sophos XG Firewall and Central Wireless product documentation by using tools such as oXygen, Bitbucket, and Jira. I created and maintained online help, context-sensitive help, knowledge-base articles, administrator, command reference, and user guides.  I also maintained and worked on Git documentation repository. I was leading project-related activities and occasionally trained junior staff members.
+- layout: left
+  company: Avaya India Private Limited
+  link: https://www.avaya.com
+  job_title: Technical Writer (Information Engineering Senior Technical Associate)
+  dates: January 2015 - April 2017
+  quote: >
+   Founded in 2000, a spin-off of Lucent Technolgies (AT&T), is a developer and provider of business communication suite that includes contact center, unified communication and services.
+  description: | # this will include new lines to allow paragraphs
+    I worked on IP deskphones, Avaya Aura, and Avaya IP Office by using tools such as Arbortext, SDL Trisoft, and Jira. I created and maintained online help, knowledge-base articles, administrator, command reference, and user guides. I had lead project-related activities and also initiated Android application development for documentation delivery.
+- layout: left
+  company: HCL Technolgies Limited
+  link: https://www.hcl.com
+  job_title: Technical Writer
+  dates: March 2014 - October 2014
+  quote: >
+   Founded in 1991, HCL Technologies is a software service provider.
+  description: | # this will include new lines to allow paragraphs
+    I worked on CA Technolgies Unified Infrastructure Management by using tools such as Authorit, Acrolinx, and Rally. I created and maintained administrator, command reference, and user guides.
+- layout: left
+  company: Artech Information Systems Private Limited
+  link: https://www.artech.com
+  job_title: Technical Writer
+  dates: July 2013 - March 2014
+  quote: >
+   Founded in 1992, Artech Information Systems is a software and human resource service provider.
+  description: | # this will include new lines to allow paragraphs
+    I worked at NIIT Technologies Private Limited on Tenix Nova Infringement project by using tools such as Microsoft Word and Jira. I created and maintained administrator, and user guides.
+- layout: left
+  company: Yako Microfinance Limited (Earlier, Rara Infotech Limited)
+  link: https://www.yako-uganda.com
+  job_title: Freelancer / System Analyst / Technical Writer
+  dates: October 2010 - July 2013
+  quote: >
+   Founded in 2010, Yako Microfinance Limited is a microfinance provider for small loans.
+  description: | # this will include new lines to allow paragraphs
+    I worked as a System Analyst for various buisness and system related projects. I created and maintained business requirement specifications documents and performed system analysis. I had worked on XML documents for mapping and setting up Mifo microfinance software.
