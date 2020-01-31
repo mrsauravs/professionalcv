@@ -45,7 +45,7 @@ linkedin_username: saurabh-sugandh-97280148
 
 # About Section
 about_title: Profile #(Use this to override about section title)
-# about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Experienced in information gathering, business analysis, networking, documentation, and leading projects with an overall experience of over eight years in IT. I’m well versed with various documentation tools such as Oxygen XML Editor, PTC Arbortext Editor, Adobe FrameMaker, Adobe RoboHelp, and Microsoft Word. I constantly work to improve user-content experience and closely involved in various initiatives at my workplace. I’ve a sound knowledge of computer networks. I also maintain a blog that covers a wide veriety of topics and occasionally ponder over various linux flavors to test their features and usability.
 

@@ -9,9 +9,9 @@
     Project is on wordpress. I started it to express my views on movies and later on it became a platform for sharing views on social and technical issues. It is a static website and so looking forward to move it to Github.
 
 - layout: top-middle
-  name: ownCloud Help
-  link: https://mrsauravs.github.io/ownCloud/
-  github: mrsauravs/ownCloud
+  name: Online Help
+  link: https://github.com/mrsauravs/onlinehelp
+  github: mrsauravs/onlinehelp
   quote: >
     An online help portal to install and set up ownCloud. ownCloud is an open source project that allows user to maintain their own personal cloud storage.
   description: | # this will include new lines to allow paragraphs
