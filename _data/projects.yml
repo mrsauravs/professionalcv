@@ -10,7 +10,7 @@
 
 - layout: top-middle
   name: Online Help
-  link: https://github.com/mrsauravs/onlinehelp
+  link: https://mrsauravs.github.io/onlinehelp/
   github: mrsauravs/onlinehelp
   quote: >
     An online help portal to install and set up ownCloud. ownCloud is an open source project that allows user to maintain their own personal cloud storage.
