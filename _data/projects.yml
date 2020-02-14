@@ -1,12 +1,12 @@
 # Project template
 - layout: top-middle
   name: Inverse Lattice
-  link: https://inverselattice.com
+  link: https://inverselattice.com | https://mrsauravs.github.io/site/
   github: mrsauravs/site
   quote: >
     A platform for sharing views on variety of topics.
   description: | # this will include new lines to allow paragraphs
-    Project is on wordpress. I started it to express my views on movies and later on it became a platform for sharing views on social and technical issues. It is a static website and so looking forward to move it to Github.
+    Project is on Wordpress and Github. I started it to express my views on movies and later on it became a platform for sharing views on social and technical issues. It's currently in transition from Wordpress to Github.
 
 - layout: top-middle
   name: Online Help
