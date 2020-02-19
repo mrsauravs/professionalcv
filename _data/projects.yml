@@ -2,26 +2,24 @@
 - layout: top-middle
   name: Inverse Lattice
   link: https://inverselattice.com
-  link: https://mrsauravs.github.io/site/
-  github: mrsauravs/site
   quote: >
     A platform for sharing views on variety of topics.
   description: | # this will include new lines to allow paragraphs
-    Project is on Wordpress and Github. I started it to express my views on movies and later on it became a platform for sharing views on social and technical issues. It's currently in transition from Wordpress to Github.
+    Project is on Wordpress. I started it to express my views on movies and later on it became a platform for sharing views on social and technical issues.
 
 - layout: top-middle
   name: Online Help
   link: https://mrsauravs.github.io/onlinehelp/
   github: mrsauravs/onlinehelp
   quote: >
-    An online help portal to install and set up ownCloud. ownCloud is an open source project that allows user to maintain their own personal cloud storage.
+    A platform to provide procedure and guidance on technical issues.
   description: | # this will include new lines to allow paragraphs
-    Project is on Github. I started this project create an easy reference to set up ownCloud software to host personal cloud storage.
+    Project is on Github. I started this project create an easy reference to set up ownCloud software and now adding more stuff.
 
 - layout: top-middle
   name: Keyboard Help App
   link: https://play.google.com/store/apps/details?id=com.keyboard.www
   quote: >
-    A help application to demonstrate documentation through mobile applications.
+    A help application to demonstrate documentation through mobile application.
   description: | # this will include new lines to allow paragraphs
-    Project is on Google Playstore. I started this project to demonstrate and innovate the idea of documentation delivery mechanism at Avaya India Private Limited. This project contains a javascript interactive diagram to understand a demo product.	
+    Project is on Google Playstore. I started this project to demonstrate and innovate the idea of documentation delivery mechanism at Avaya India Private Limited. This project contains a javascript-based interactive diagram to understand a demo product.	
