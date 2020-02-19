@@ -14,7 +14,7 @@
   quote: >
     A platform to provide procedure and guidance on technical issues.
   description: | # this will include new lines to allow paragraphs
-    Project is on Github. I started this project create an easy reference to set up ownCloud software and now adding more stuff.
+    Project is on Github. I started this project to create an easy reference to set up ownCloud software and now adding more stuff.
 
 - layout: top-middle
   name: Keyboard Help App
